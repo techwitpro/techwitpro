@@ -83,8 +83,8 @@ I'm always eager to expand my knowledge and currently learning `Next.JS` .
 
 ## 📫 Let's Connect
 
-- **Portfolio:** [Tech WIT Pro](https://techwitpro.com/)
-- **Email:** techwitpro@gmail.com
+- **Portfolio:** [Techwitpro](https://techwitpro.com/)
+- **Email:** info@techwitpro.com
 
 <br>
 
