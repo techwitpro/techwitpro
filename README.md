@@ -1,6 +1,6 @@
 <!-- ![logo](https://github.com/techwitpro/techwitpro/blob/main/Images/git%20cover.png?raw=true) -->
 
-<h1>Hi there! 👋 It's Tach WIT Pro</h1>
+<h1>Hi there! 👋 It's Tachwitpro</h1>
 <br>
 
 ## 🧑‍💻 About Me
