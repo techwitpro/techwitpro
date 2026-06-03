@@ -71,9 +71,7 @@ Techwitpro is a modern digital agency focused on:
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=techwitpro" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=techwitpro&theme=transparent)](https://git.io/streak-stats)
 
 ---
 
